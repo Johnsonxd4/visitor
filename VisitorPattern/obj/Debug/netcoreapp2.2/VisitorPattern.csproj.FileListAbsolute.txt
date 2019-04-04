@@ -1,0 +1,11 @@
+C:\Users\paulo.moura\source\repos\VisitorPattern\VisitorPattern\obj\Debug\netcoreapp2.2\VisitorPattern.csprojAssemblyReference.cache
+C:\Users\paulo.moura\source\repos\VisitorPattern\VisitorPattern\obj\Debug\netcoreapp2.2\VisitorPattern.csproj.CoreCompileInputs.cache
+C:\Users\paulo.moura\source\repos\VisitorPattern\VisitorPattern\obj\Debug\netcoreapp2.2\VisitorPattern.AssemblyInfoInputs.cache
+C:\Users\paulo.moura\source\repos\VisitorPattern\VisitorPattern\obj\Debug\netcoreapp2.2\VisitorPattern.AssemblyInfo.cs
+C:\Users\paulo.moura\source\repos\VisitorPattern\VisitorPattern\bin\Debug\netcoreapp2.2\VisitorPattern.deps.json
+C:\Users\paulo.moura\source\repos\VisitorPattern\VisitorPattern\bin\Debug\netcoreapp2.2\VisitorPattern.runtimeconfig.json
+C:\Users\paulo.moura\source\repos\VisitorPattern\VisitorPattern\bin\Debug\netcoreapp2.2\VisitorPattern.runtimeconfig.dev.json
+C:\Users\paulo.moura\source\repos\VisitorPattern\VisitorPattern\bin\Debug\netcoreapp2.2\VisitorPattern.dll
+C:\Users\paulo.moura\source\repos\VisitorPattern\VisitorPattern\bin\Debug\netcoreapp2.2\VisitorPattern.pdb
+C:\Users\paulo.moura\source\repos\VisitorPattern\VisitorPattern\obj\Debug\netcoreapp2.2\VisitorPattern.dll
+C:\Users\paulo.moura\source\repos\VisitorPattern\VisitorPattern\obj\Debug\netcoreapp2.2\VisitorPattern.pdb
